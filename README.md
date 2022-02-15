@@ -1,4 +1,4 @@
-# Pong-
+# Pong - Um pouco de diversão!
 //variáveis da bolinha
 let xBolinha = 300;
 let yBolinha = 200;
